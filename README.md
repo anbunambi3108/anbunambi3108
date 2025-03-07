@@ -1,6 +1,6 @@
 ## 🏆 "Data! Data! Data! I can’t make bricks without clay." – Sherlock Holmes  
 
-## Hi there! 👋 I'm Anbu Ezhilmathi Nambi  
+## Hi there! 👋 I'm Anbu 
 
 🚀 **Aspiring Data Scientist | Data Analyst**  
 🔍 Passionate about **data insights, visualization, and storytelling through data**  
@@ -9,18 +9,8 @@
 I believe **data tells a story**, and I love turning complex data into **insightful and visually compelling narratives**.  
 From **exploring patterns** to **creating impactful visualizations**, I thrive on making data-driven decisions that matter.  
 
-### 🎓 Education  
-📚 **Master of Science in Data Analytics** | *The George Washington University* (May 2025)  
-
-### 🛠️ My Tech Stack  
-🔹 **Programming:** Python, R, SQL, MongoDB, JavaScript, React.js  
-🔹 **Data & Visualization Tools:** Tableau, Power BI, Matplotlib, Seaborn  
-🔹 **Machine Learning & AI:** Computer Vision, NLP, Statistical Modeling  
-
-### 📊 Fun Data Facts  
-✔️ Data Preprocessing **can reduce errors by 80%**!  
-✔️ The human brain **processes visuals 60,000 times faster** than text—making data visualization crucial.  
-✔️ 90% of the world's data **was generated in the last two years**!  
+### 📚 Portfolio
+🔗 https://anbunambi3108.wixsite.com/anbu-nambi
 
 ### 📚 Publications  
 📖 **Co-authored a chapter in "Leveraging AI for Preventing Sudden Cardiac Arrest"** (IGI Global)  
