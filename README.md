@@ -10,7 +10,7 @@ I believe **data tells a story**, and I love turning complex data into **insight
 From **exploring patterns** to **creating impactful visualizations**, I thrive on making data-driven decisions that matter.  
 
 ### 📚 Portfolio
-🔗 https://anbunambi3108.wixsite.com/anbu-nambi
+🔗 [anbunambi3108.wixsite.com](https://anbunambi3108.wixsite.com/anbu-nambi)
 
 ### 📚 Publications  
 📖 **Co-authored a chapter in "Leveraging AI for Preventing Sudden Cardiac Arrest"** (IGI Global)  
