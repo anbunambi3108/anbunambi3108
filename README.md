@@ -7,9 +7,9 @@ Most data projects fail because the foundation is weak. Poor data preparation an
 ## What I do
 - Clean and prepare data at scale
 - Engineer features that capture meaningful patterns
-- Build automated pipelines that remain reliable
+- Build automated pipelines that are reliable
 - Train models for prediction, segmentation, and forecasting
-- Create visualizations and analysis for business decisions
+- Create dashboards and analysis for business decisions
 
 ## Skills
 - Programming: Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL)
