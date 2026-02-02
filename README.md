@@ -1,16 +1,30 @@
-## 🏆 "Data! Data! Data! I can’t make bricks without clay." – Sherlock Holmes  
+# Hi, I'm Anbu
 
-## Hi there! 👋 I'm Anbu 
+I build customer analytics systems from data cleaning to business insights.
 
-🚀 **Aspiring Data Scientist | Data Analyst**  
-🔍 Passionate about **data insights, visualization, and storytelling through data**  
+Most data projects fail because the foundation is weak. Poor data preparation and feature engineering create problems that no model can fix. I focus on doing this work properly—cleaning data thoroughly, engineering features that matter, and building automated systems that scale.
 
-### 🌟 About Me  
-I believe **data tells a story**, and I love turning complex data into **insightful and visually compelling narratives**.  
-From **exploring patterns** to **creating impactful visualizations**, I thrive on making data-driven decisions that matter.  
+I own the entire process: preparing customer data, building automated pipelines, training models for prediction and segmentation, and delivering analysis that informs business decisions.
+
+## What I do
+- Clean and prepare customer data at scale
+- Engineer features that capture meaningful patterns
+- Build automated pipelines that remain reliable
+- Train models for prediction, segmentation, and forecasting
+- Create visualizations and analysis for business decisions
+
+## What I use
+- Python for data processing and automation
+- SQL for data extraction and organization
+- Databricks for large-scale data work
+- Statistical modeling and machine learning
+- Data visualization and reporting
+
+## My approach
+Get the data and features right first. The quality of preparation and feature engineering directly determines whether your models work and whether your insights are actionable.
 
 ### Portfolio
-🔗 [anbunambi3108.github.io](https://anbunambi3108.github.io/anbunambi-portfolio/)
+🔗 [anbunambi3108.github.io](https://anambi.lovable.app/)
 
 ### Publications  
 📖 **Co-authored a chapter in "Leveraging AI for Preventing Sudden Cardiac Arrest"** (IGI Global)  
