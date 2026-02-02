@@ -11,18 +11,11 @@ Most data projects fail because the foundation is weak. Poor data preparation an
 - Train models for prediction, segmentation, and forecasting
 - Create visualizations and analysis for business decisions
 
-## What I use
-- Python for data processing and automation
-- SQL for data extraction and organization
-- Databricks for large-scale data work
-- Statistical modeling and machine learning
-- Data visualization and reporting
-
 ## Skills
-Programming: Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL)
-Machine Learning: Regression, Classification, Tree-based models (Random Forest, XGBoost), Clustering, Time Series Forecasting (ARIMA, Prophet), Feature Engineering
-Data Engineering: PySpark, ETL pipelines, Databricks, Data Warehousing
-Visualization: Tableau, Power BI, Matplotlib, Seaborn
+- Programming: Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL)
+- Machine Learning: Regression, Classification, Tree-based models (Random Forest, XGBoost), Clustering, Time Series Forecasting (ARIMA, Prophet), Feature Engineering
+- Data Engineering: PySpark, ETL pipelines, Databricks, Data Warehousing
+- Visualization: Tableau, Power BI, Matplotlib, Seaborn
 
 ### Portfolio
 🔗 [anbunambi3108.github.io](https://anambi.lovable.app/)
