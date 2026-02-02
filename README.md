@@ -1,13 +1,11 @@
 # Hi, I'm Anbu
 
-I build customer analytics systems from data cleaning to business insights.
+I build systems from data cleaning to business insights.
 
-Most data projects fail because the foundation is weak. Poor data preparation and feature engineering create problems that no model can fix. I focus on doing this work properly—cleaning data thoroughly, engineering features that matter, and building automated systems that scale.
-
-I own the entire process: preparing customer data, building automated pipelines, training models for prediction and segmentation, and delivering analysis that informs business decisions.
+Most data projects fail because the foundation is weak. Poor data preparation and feature engineering create problems that no model can fix. I focus on cleaning data thoroughly, engineering features that matter, and building automated systems that scale.
 
 ## What I do
-- Clean and prepare customer data at scale
+- Clean and prepare data at scale
 - Engineer features that capture meaningful patterns
 - Build automated pipelines that remain reliable
 - Train models for prediction, segmentation, and forecasting
@@ -20,8 +18,11 @@ I own the entire process: preparing customer data, building automated pipelines,
 - Statistical modeling and machine learning
 - Data visualization and reporting
 
-## My approach
-Get the data and features right first. The quality of preparation and feature engineering directly determines whether your models work and whether your insights are actionable.
+## Skills
+Programming: Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL)
+Machine Learning: Regression, Classification, Tree-based models (Random Forest, XGBoost), Clustering, Time Series Forecasting (ARIMA, Prophet), Feature Engineering
+Data Engineering: PySpark, ETL pipelines, Databricks, Data Warehousing
+Visualization: Tableau, Power BI, Matplotlib, Seaborn
 
 ### Portfolio
 🔗 [anbunambi3108.github.io](https://anambi.lovable.app/)
