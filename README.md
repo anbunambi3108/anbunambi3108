@@ -1,24 +1,24 @@
-# Hi, I'm Anbu
+## Hi, I'm Anbu
+I build customer analytics systems from data preparation to business insights.
+Poor data preparation and feature engineering create bottlenecks that downstream models struggle to overcome. I focus on cleaning data thoroughly, engineering features that matter, and building automated systems that scale.
 
-I build systems from data cleaning to business insights.
+### What I do
+- Clean and prepare customer data—improving accuracy by ~80%, reducing processing time by ~90%
+- Engineer features that capture meaningful customer behavior patterns
+- Build automated pipelines for reliable data processing
+- Train Random Forest and XGBoost models for churn prediction and segmentation achieving ~81% accuracy
+- Deliver analysis that informs business decisions
 
-Most data projects fail because the foundation is weak. Poor data preparation and feature engineering create problems that no model can fix. I focus on cleaning data thoroughly, engineering features that matter, and building automated systems that scale.
+### Impact
+- Reduced customer churn by improving prediction accuracy and enabling retention-focused interventions through data-driven insights.
 
-## What I do
-- Clean and prepare data at scale
-- Engineer features that capture meaningful patterns
-- Build automated pipelines that are reliable
-- Train models for prediction, segmentation, and forecasting
-- Create dashboards and analysis for business decisions
+### Skills
+   - **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL
+   - **ML/Data:** Regression, Classification, Random Forest, XGBoost, ARIMA, Prophet, Feature Engineering
+   - **Engineering:** PySpark, ETL pipelines, Databricks, Data Warehousing
+   - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 
-## Skills
-- Programming: Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL)
-- Machine Learning: Regression, Classification, Tree-based models (Random Forest, XGBoost), Clustering, Time Series Forecasting (ARIMA, Prophet), Feature Engineering
-- Data Engineering: PySpark, ETL pipelines, Databricks, Data Warehousing
-- Visualization: Tableau, Power BI, Matplotlib, Seaborn
-
-### Portfolio
-🔗 [anbunambi3108.github.io](https://anambi.lovable.app/)
+🔗 [Anbu's Portfolio](https://anambi.lovable.app/)
 
 ### Publications  
 📖 **Co-authored a chapter in "Leveraging AI for Preventing Sudden Cardiac Arrest"** (IGI Global)  
